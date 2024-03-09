@@ -1,0 +1,62 @@
+# Compiled files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.jar
+*.war
+*.ear
+*.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.sql
+*.db
+*.xlsx
+
+# Temporary files
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyz
+*.pyzw
+
+# Compiled Python files
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Visual Studio Code specific files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
